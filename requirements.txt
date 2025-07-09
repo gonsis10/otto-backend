@@ -1,0 +1,16 @@
+# LangChain packages
+langchain
+langchain-openai
+langchain-core
+
+# Google API packages
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Data validation
+pydantic
+
+# OpenAI (for ChatOpenAI)
+openai
